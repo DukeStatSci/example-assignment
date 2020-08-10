@@ -1,6 +1,6 @@
 ---
 title: "Assignment Template"
-author: "Student Name"
+author: "New Student Name"
 date: "Date"
 output: html_document
 ---
